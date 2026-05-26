@@ -1,4 +1,4 @@
-# Hi there, I'm Jeanne! 👋
+## Hi there, I'm Jeanne! 👋
 
 I am a **Data Scientist** focused on bridging the gap between data science and engineering to ship robust, production-grade systems with measurable business impact. 
 
