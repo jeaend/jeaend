@@ -19,5 +19,5 @@ I am a **Data Scientist** focused on bridging the gap between data science and e
 
 ### 📈 Let's Connect!
 
-* 💼 [LinkedIn]([https://www.linkedin.com/in/jeanneendres/])
+* 💼 [LinkedIn](https://www.linkedin.com/in/jeanneendres/)
 * 📧 [Email](mailto:endres.jea@gmail.com)
