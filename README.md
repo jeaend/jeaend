@@ -10,11 +10,10 @@ I am a **Data Scientist** focused on bridging the gap between data science and e
 
 ### 🛠️ Tech Stack & Tools
 
-* **Languages & Core:** Python, SQL (PostgreSQL, MySQL), Bash
-* **Data & ML Infrastructure:** dbt (Cloud & Core), Airflow, Redshift, BigQuery, Docker
-* **Machine Learning & AI:** Scikit-Learn, Pandas, NumPy, GenAI / RAG (LangChain), Foundation Model Embeddings, LLM Tooling & Function Calling
-* **Experimentation & BI:** A/B Testing (Statsig, Braze), Tableau, Looker
-
+* **Languages & Core:** Python, SQL, Bash
+* **Data & ML Infrastructure:** dbt (Cloud & Core), Airflow, Redshift, BigQuery, Docker, Dimensional Modeling
+* **Machine Learning & AI:** scikit-learn, Pandas, NumPy, NLP, Foundation Model Embeddings, LLM Tooling & Function Calling (Claude Code)
+* **Experimentation & Analytics:** A/B Experimentation (Statsig, Braze), CX Analytics, Preset
 ---
 
 ### 📈 Let's Connect!
