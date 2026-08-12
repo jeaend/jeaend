@@ -2,7 +2,7 @@
 
 I am a **Data Scientist** focused on bridging the gap between data science and engineering to ship robust, production-grade systems with measurable business impact. 
 
-🚀 **Currently:** Data Scientist (Intern) on the Customer Experience Operations (CXO) team at **Wealthsimple**.
+🚀 **Currently:** Data Scientist on the Customer Experience Operations (CXO) team at **Wealthsimple**.
 
 🎓 **Background:** M.Sc. in Data Science & B.Sc. in Computer Science.
 
