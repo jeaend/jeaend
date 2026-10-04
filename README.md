@@ -22,4 +22,4 @@ I am a **Data Scientist** focused on bridging the gap between data science and e
 * 💼 [LinkedIn](https://www.linkedin.com/in/jeanneendres/)
 * 📧 [Email](mailto:endres.jea@gmail.com)
 
-<img width="762" height="203" alt="Screenshot 2026-07-08 at 9 48 08 PM" src="https://github.com/user-attachments/assets/84bec560-ba1c-4f7d-a507-d11661a36bf3" />
+<img width="746" height="158" alt="Screenshot 2026-10-04 at 7 12 42 PM" src="https://github.com/user-attachments/assets/e19d6385-6525-4ec2-9d98-850ccc781514" />
