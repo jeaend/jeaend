@@ -1,6 +1,6 @@
 ## Hi there, I'm Jeanne! 👋
 
-I am a **Data Scientist** focused on bridging the gap between data science and engineering to ship robust, production-grade systems with measurable business impact. 
+I am a **Data Scientist** at Wealthsimple, enabling our customer service org.
 
 🚀 **Currently:** Data Scientist on the Customer Experience Operations (CXO) team at **Wealthsimple**.
 
