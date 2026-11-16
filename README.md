@@ -1,3 +1,4 @@
+<img width="688" height="173" alt="Screenshot 2026-11-16 at 2 15 27 PM" src="https://github.com/user-attachments/assets/78387190-8d3c-4913-8f6b-e36733af249a" />
 ## Hi there, I'm Jeanne! 👋
 
 I am a **Data Scientist** at Wealthsimple, enabling our customer service org.
@@ -22,4 +23,4 @@ I am a **Data Scientist** at Wealthsimple, enabling our customer service org.
 * 💼 [LinkedIn](https://www.linkedin.com/in/jeanneendres/)
 * 📧 [Email](mailto:endres.jea@gmail.com)
 
-<img width="746" height="158" alt="Screenshot 2026-10-04 at 7 12 42 PM" src="https://github.com/user-attachments/assets/e19d6385-6525-4ec2-9d98-850ccc781514" />
+<img width="692" height="182" alt="Screenshot 2026-11-16 at 2 15 50 PM" src="https://github.com/user-attachments/assets/28ed9fba-b5e3-484f-8a59-3fb53cb29b53" />
