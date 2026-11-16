@@ -1,4 +1,3 @@
-<img width="688" height="173" alt="Screenshot 2026-11-16 at 2 15 27 PM" src="https://github.com/user-attachments/assets/78387190-8d3c-4913-8f6b-e36733af249a" />
 ## Hi there, I'm Jeanne! 👋
 
 I am a **Data Scientist** at Wealthsimple, enabling our customer service org.
